@@ -1,0 +1,12 @@
+com\example\Model\SignUpRequest.class
+com\example\Controller\AuthController.class
+com\example\Entity\UserEntity.class
+com\example\Model\ForgotPasswordRequest.class
+com\example\DemoApplication.class
+com\example\Auth\JwtUtil.class
+com\example\Config\SecurityConfig.class
+com\example\Model\AuthResponse.class
+com\example\Model\LoginRequest.class
+com\example\Exception\GlobalExceptionHandler.class
+com\example\Repository\UserRepository.class
+com\example\Service\AuthService.class
